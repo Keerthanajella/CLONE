@@ -8,6 +8,7 @@ public class MainClass
 {
     public static void main(String[] args)
     {
+        //Feedetails
         FeeDetails feeDetails1=new FeeDetails(60000,"15-06-2020");
         FeeDetails feeDetails2=new FeeDetails(35000,"16-08-2023");
         FeeDetails feeDetails3=new FeeDetails(65000,"20-06-2023");
